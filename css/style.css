@@ -569,10 +569,10 @@ html {
   margin-top: 50px;
 }
 .footer-outer .copyright {
-  color: #565b87;
+  color: white ;
   text-align: center;
   font-size: 13px;
-  padding: 4px ;
+  padding: 0px ;
 }
 
 .google-play-btn {
@@ -994,8 +994,9 @@ html {
   }
 }
 
-p.contact-us{
-  margin-top: 20px;
+.contact-us{
+  font-size: small;
+  margin-top: 5px;
   text-align: center;
   color: white 
 }
